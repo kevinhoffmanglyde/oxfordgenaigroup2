@@ -1,0 +1,8 @@
+Synthetic Data for clothing store model was generated through Chat-GPT4 prompting.
+3 Prediction Models were coplioted by Chat-GPT4, Llama2 13b and Llama3 7b.
+Neo4j Chatbot notebook window was copiloted by Chat-GPT4
+
+Power BI Colour Pallet was built with Dall-e
+Logo was built with Logo Creator
+Report Background Image was built with Dall-e
+
